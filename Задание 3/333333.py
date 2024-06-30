@@ -31,5 +31,5 @@ def process_file(file_path):
 
 
 # Replace with your file path
-file_path = 'your_file_path'
+file_path = 'D:\Задание 3\wiki.txt'
 process_file(file_path)
